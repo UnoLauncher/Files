@@ -7,8 +7,27 @@
         "sha1": "1.0.0.1"
     },
     {
+        "name": "languages.json",
+        "folder": "JSON"
+    },
+    {
+        "name": "libraries.json",
+        "folder": "JSON"
+    },
+    {
+        "name": "version.json",
+        "folder": "JSON"
+    },
+    {
         "name": "news.json",
         "folder": "JSON"
+    },
+    {
+        "name": "english.lang",
+        "folder": "Languages",
+        "size": 24076,
+        "md5": "7e7b4925e15d15b2e8bb08bb059e07ef",
+        "sha1": "bb2e633b2dcb111bbc0b03bcfeb574828609b6d9"
     },
     {
         "name": "LaunchServer.sh",
