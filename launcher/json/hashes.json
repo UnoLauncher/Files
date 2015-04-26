@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Launcher",
+        "folder": "Launcher",
+        "size": 0,
+        "md5": "1.0.0.1",
+        "sha1": "1.0.0.1"
+    },
+    {
+        "name": "news.json",
+        "folder": "JSON"
+    },
+    {
+        "name": "LaunchServer.sh",
+        "folder": "Libraries"
+    },
+    {
+        "name": "LaunchServer.bat",
+        "folder": "Libraries"
+    }
+]

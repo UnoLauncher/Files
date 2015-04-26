@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Auto",
+        "baseUrl": "files.uno.jamierocks.uk",
+        "disabled": false,
+        "isMaster": true
+    }
+]
