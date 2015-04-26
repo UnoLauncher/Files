@@ -1,10 +1,13 @@
+---
+
+---
 [
     {
         "name": "Launcher",
         "folder": "Launcher",
         "size": 0,
-        "md5": "1.0.0.1",
-        "sha1": "1.0.0.1"
+        "md5": "{{ site.version_reserved }}.{{ site.version_major }}.{{ site.version_minor }}.{{ site.version_revision }}",
+        "sha1": "{{ site.version_reserved }}.{{ site.version_major }}.{{ site.version_minor }}.{{ site.version_revision }}"
     },
     {
         "name": "languages.json",
