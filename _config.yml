@@ -1,0 +1,10 @@
+# Site settings
+title: UnoLauncher Files
+email: malgm@lapis.blue
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://files.uno.jamierocks.uk" # the base hostname & protocol for your site
+github_username: UnoLauncher
+
+# Build settings
+markdown: kramdown
+
