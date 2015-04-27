@@ -4,6 +4,13 @@
         "baseUrl": "files.uno.jamierocks.uk",
         "userSelectable": true,
         "disabled": false,
+        "isMaster": false
+    },
+    {
+        "name": "Master Server (Testing Only)",
+        "baseUrl": "files.uno.jamierocks.uk",
+        "userSelectable": false,
+        "disabled": false,
         "isMaster": true
     }
 ]
