@@ -41,6 +41,10 @@
         "sha1": "bb2e633b2dcb111bbc0b03bcfeb574828609b6d9"
     },
     {
+        "name": "default.png",
+        "folder": "Skins"
+    },
+    {
         "name": "LaunchServer.sh",
         "folder": "Libraries"
     },

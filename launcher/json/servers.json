@@ -2,6 +2,7 @@
     {
         "name": "Auto",
         "baseUrl": "files.uno.jamierocks.uk",
+        "userSelectable": true,
         "disabled": false,
         "isMaster": true
     }
