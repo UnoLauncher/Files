@@ -239,7 +239,7 @@
             }
         ],
         "createServer": true,
-        "leaderboards": true,
+        "leaderboards": false,
         "logging": true,
         "crashReports": false,
         "description": "Play Minecraft the way it was intended with Vanilla Minecraft. No mods, just plain simple Minecraft as Mojang intended you to play.",
