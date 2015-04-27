@@ -1,0 +1,249 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "name": "Vanilla Minecraft",
+        "type": "public",
+        "versions": [
+            {
+                "version": "1.8.4",
+                "minecraft": "1.8.4",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.8.3",
+                "minecraft": "1.8.3",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.8.2",
+                "minecraft": "1.8.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.8.1",
+                "minecraft": "1.8.1",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.8",
+                "minecraft": "1.8",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.7.10",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.7.9",
+                "minecraft": "1.7.9",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.7.5",
+                "minecraft": "1.7.5",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.7.4",
+                "minecraft": "1.7.4",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.7.2",
+                "minecraft": "1.7.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.6.4",
+                "minecraft": "1.6.4",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.6.2",
+                "minecraft": "1.6.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.6.1",
+                "minecraft": "1.6.1",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.5.2",
+                "minecraft": "1.5.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.5.1",
+                "minecraft": "1.5.1",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.4.7",
+                "minecraft": "1.4.7",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.4.6",
+                "minecraft": "1.4.6",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.4.5",
+                "minecraft": "1.4.5",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.4.4",
+                "minecraft": "1.4.4",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.4.2",
+                "minecraft": "1.4.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.3.2",
+                "minecraft": "1.3.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.3.1",
+                "minecraft": "1.3.1",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.2.5",
+                "minecraft": "1.2.5",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.2.4",
+                "minecraft": "1.2.4",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.2.3",
+                "minecraft": "1.2.3",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.2.2",
+                "minecraft": "1.2.2",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.2.1",
+                "minecraft": "1.2.1",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.1",
+                "minecraft": "1.1",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.0",
+                "minecraft": "1.0",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            }
+        ],
+        "createServer": true,
+        "leaderboards": true,
+        "logging": true,
+        "crashReports": false,
+        "description": "Play Minecraft the way it was intended with Vanilla Minecraft. No mods, just plain simple Minecraft as Mojang intended you to play.",
+        "supportURL": "http://uno.jamierocks.uk/irc",
+        "websiteURL": "http://www.minecraft.net"
+    }
+]

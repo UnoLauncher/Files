@@ -14,6 +14,14 @@
         "folder": "JSON"
     },
     {
+        "name": "minecraftversions.json",
+        "folder": "JSON"
+    },
+    {
+        "name": "packs.json",
+        "folder": "JSON"
+    },
+    {
         "name": "libraries.json",
         "folder": "JSON"
     },
